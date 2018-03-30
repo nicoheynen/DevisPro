@@ -6,5 +6,6 @@ namespace DevisPro.Application
 {
     public class CreateCustomer
     {
+
     }
 }
