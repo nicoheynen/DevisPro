@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DevisPro.Application\DevisPro.Application.csproj" />
+    <ProjectReference Include="..\DevisPro.Domain.EF\DevisPro.Domain.EF.csproj" />
+    <ProjectReference Include="..\DevisPro.Domain\DevisPro.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
